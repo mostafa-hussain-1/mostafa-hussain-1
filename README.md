@@ -23,11 +23,11 @@
 </div>
 
 ### 🏆 Featured Projects
-- ✈️ **[SkyPort]()**
+- ✈️ **[SkyPort](https://github.com/mostafa-hussain-1/skyPort)**
   - A high-performance Airline Reservation desktop application built with **C++**.
   - Implemented custom data structures and security hashing algorithms from scratch.
   - 🏅 *Nominated among the **Top 1** out of 140+ projects at Ain Shams University.*
-- 📈 **[SGA+]()**
+- 📈 **[SGA+](https://mostafa-hussain-1.github.io/SGA_site/)**
   - A comprehensive, cross-platform academic tracker developed using **C++** and **Qt**.
   - **Scalable Architecture:** Designed with a flexible system capable of adapting to different university grading bylaws and credit-hour structures.
   - **Advanced Analytics:** Calculates term/cumulative GPAs, tracks completed vs. required credit hours, monitors currently registered hours, and manages academic warnings.
