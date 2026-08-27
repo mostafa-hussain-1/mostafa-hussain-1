@@ -26,7 +26,8 @@
 - ✈️ **[SkyPort](https://github.com/mostafa-hussain-1/skyPort)**
   - A high-performance Airline Reservation desktop application built with **C++**.
   - Implemented custom data structures and security hashing algorithms from scratch.
-  - 🏅 *Nominated among the **Top 1** out of 140+ projects at Ain Shams University.*
+  - 🏆 **Secured 1st Place out of 180+ competing projects at Ain Shams University.**
+
 - 📈 **[SGA+](https://mostafa-hussain-1.github.io/SGA_site/)**
   - A comprehensive, cross-platform academic tracker developed using **C++** and **Qt**.
   - **Scalable Architecture:** Designed with a flexible system capable of adapting to different university grading bylaws and credit-hour structures.
@@ -36,8 +37,7 @@
 
 ### 📊 GitHub & Problem Solving Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-hussain-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-hussain-1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />  <br><br>
   <a href="https://codeforces.com/profile/mostafa.hussain1">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
